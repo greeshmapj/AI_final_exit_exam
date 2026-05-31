@@ -1,6 +1,9 @@
 
 Intel Image Classification using Deep Learning
 
+Colab Notebook link : https://colab.research.google.com/drive/1VWd6btPR1CE8LB1nQOR6hhqjH6Uns0YH?usp=sharing
+(Not able to attach the colab file, showing error : 'notebook too long to render')
+
 Project Overview
 
 This project implements an automated image classification system for natural scene images using Deep Learning and Convolutional Neural Networks (CNNs). The objective is to classify images into one of six scene categories:
