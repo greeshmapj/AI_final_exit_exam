@@ -1,5 +1,8 @@
 streamlit
-tensorflow
+pandas
 numpy
-pillow
-h5py
+scikit-learn
+joblib
+matplotlib
+seaborn
+openpyxl
